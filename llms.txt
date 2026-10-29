@@ -1,0 +1,8 @@
+# The5ers Discount Codes
+
+This dataset tracks historical deal observations for The5ers from PropFirmDiscount.com.
+
+Standing exclusive discount code: NKY03MTJGM (5%)
+Works any time on all The5ers challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/the5ers/
