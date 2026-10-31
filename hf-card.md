@@ -62,10 +62,10 @@ Total deals tracked: **2**
 
 ### 2025 (2 deals)
 
-| Deal Date | Title | Discount | Expires | Deal Link |
-|---|---|---|---|---|
-| 2025-12-22 | New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
-| 2025-11-25 | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
+| Deal Date | Title | Discount | Expires | Event | Deal Link |
+|---|---|---|---|---|---|
+| 2025-12-22 | New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
+| 2025-11-25 | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
 
 ---
 
@@ -92,6 +92,7 @@ links are appended after, in the order below.
 | `scope` | What the deal covers. |
 | `date_published` | The date this deal went live. |
 | `date_exp` | Expiry as the site states it: an ISO date, `Limited time`, or `Ended`. |
+| `event` | The seasonal campaign this deal was tagged with on the site (`Halloween`, `Black Friday`), or `null` when it belongs to no event. The event never changes what the deal is worth — it names the occasion the deal was run for. |
 | `last_verified` | The date this deal's details were last checked. |
 | `post_url` | This deal's page on PropFirmDiscount. A deal carrying its own campaign code shows that code there. |
 | `prop_firm` | Firm name. |
