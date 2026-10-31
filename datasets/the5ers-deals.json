@@ -1,40 +1,40 @@
 [
   {
-    "prop_firm": "The5ers",
-    "prop_firm_slug": "the5ers",
-    "standing_code": "NKY03MTJGM",
-    "standing_discount": "5%",
-    "activation_link": "https://propfirmdiscount.com/go/the5ers",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/the5ers/",
     "deal_id": 10435,
     "title": "New Year Offer: $2.5K High Stakes Account for $12",
-    "date_published": "2025-12-22",
-    "date_exp": "Ended",
-    "discount_value": "Only $12",
-    "last_verified": "2025-12-22",
     "offer_type": "deal",
+    "discount_value": "Only $12",
     "scope": [
       "$2.5K High Stakes Account"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/"
-  },
-  {
+    "date_published": "2025-12-22",
+    "date_exp": "Ended",
+    "last_verified": "2025-12-22",
+    "post_url": "https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/",
     "prop_firm": "The5ers",
     "prop_firm_slug": "the5ers",
     "standing_code": "NKY03MTJGM",
     "standing_discount": "5%",
     "activation_link": "https://propfirmdiscount.com/go/the5ers",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/the5ers/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/the5ers/"
+  },
+  {
     "deal_id": 10437,
     "title": "Black Friday: 15% Off All Accounts + 5% Off Select High Stakes",
-    "date_published": "2025-11-25",
-    "date_exp": "Ended",
-    "discount_value": "15%",
-    "last_verified": "2025-11-25",
     "offer_type": "deal",
+    "discount_value": "15%",
     "scope": [
       "All Account Models"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/"
+    "date_published": "2025-11-25",
+    "date_exp": "Ended",
+    "last_verified": "2025-11-25",
+    "post_url": "https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/",
+    "prop_firm": "The5ers",
+    "prop_firm_slug": "the5ers",
+    "standing_code": "NKY03MTJGM",
+    "standing_discount": "5%",
+    "activation_link": "https://propfirmdiscount.com/go/the5ers",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/the5ers/"
   }
 ]
