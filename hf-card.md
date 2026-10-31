@@ -36,6 +36,7 @@ As of 2025-12-22, the verified The5ers discount code is **NKY03MTJGM** — up to
 - Published: 2025-12-22
 - Offer ends: Ended
 - Offer: Only $12
+- Event: New Year's Eve
 - Scope: $2.5K High Stakes Account
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/
@@ -64,8 +65,8 @@ Total deals tracked: **2**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-22 | New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
-| 2025-11-25 | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
+| 2025-12-22 | New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
+| 2025-11-25 | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
 
 ---
 
