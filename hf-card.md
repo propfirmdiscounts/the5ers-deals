@@ -25,7 +25,7 @@ As of 2025-12-22, the verified The5ers discount code is NKY03MTJGM — up to 5% 
 - Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2025-12-22
-- Trustpilot: 4.7/5 (40750 reviews)
+- Trustpilot: 4.7/5 (41081 reviews)
 - Activate: https://propfirmdiscount.com/go/the5ers
 - Firm page: https://propfirmdiscount.com/prop-firm/the5ers/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
