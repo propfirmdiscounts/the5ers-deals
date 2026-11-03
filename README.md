@@ -1,4 +1,4 @@
-# The5ers Discount Code
+# The5ers - Discount Codes & Deal History
 
 As of 2025-12-22, the verified The5ers discount code is NKY03MTJGM — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
