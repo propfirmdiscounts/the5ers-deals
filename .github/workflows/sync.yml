@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: the5erss
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: the5ers
   DEALSTORE_ID: 148
   FIRM_NAME: The5ers
