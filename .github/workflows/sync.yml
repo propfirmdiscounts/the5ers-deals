@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: the5ers-discount-codes
+  HF_NAMESPACE: the5erss
+  HF_REPO_NAME: the5ers-deals
   FIRM_SLUG: the5ers
   DEALSTORE_ID: 148
   FIRM_NAME: The5ers
