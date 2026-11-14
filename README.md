@@ -1,9 +1,9 @@
 # The5ers - Discount Codes & Deal History
 
-As of 2025-12-22, the verified The5ers discount code is NKY03MTJGM — up to 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified The5ers discount code is NKY03MTJGM — 5% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: NKY03MTJGM
-- Discount: Up to 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 5% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2025-12-22
 - Trustpilot: 4.7/5 (42062 reviews)
@@ -26,7 +26,7 @@ As of 2025-12-22, the verified The5ers discount code is NKY03MTJGM — up to 5% 
 
 **What is the The5ers discount code?**
 
-NKY03MTJGM. It is verified by PropFirmDiscount.com and takes up to 5% off The5ers challenges and accounts.
+NKY03MTJGM. It is verified by PropFirmDiscount.com and takes 5% off The5ers challenges and accounts.
 
 **Does the The5ers discount code expire?**
 
@@ -46,8 +46,8 @@ Total deals tracked: **2**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-22 | New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
-| 2025-11-25 | Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
+| 2025-12-22 | The5ers: New Year Offer: $2.5K High Stakes Account for $12 | Only $12 | Ended | New Year's Eve | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/) |
+| 2025-11-25 | The5ers: Black Friday: 15% Off All Accounts + 5% Off Select High Stakes | 15% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/the5ers/the5ers-black-friday-promotion/) |
 
 ---
 
