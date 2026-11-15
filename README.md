@@ -7,10 +7,11 @@ As of 2026-11, the verified The5ers discount code is NKY03MTJGM — 5% OFF, work
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2025-12-22
 - Trustpilot: 4.7/5 (42062 reviews)
-- Activate: https://propfirmdiscount.com/go/the5ers
-- Firm page: https://propfirmdiscount.com/prop-firm/the5ers/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- GitHub repository: [https://github.com/propfirmdiscounts/the5ers-deals](https://github.com/propfirmdiscounts/the5ers-deals)
+- Activate: [https://propfirmdiscount.com/go/the5ers](https://propfirmdiscount.com/go/the5ers)
+- Firm page: [https://propfirmdiscount.com/prop-firm/the5ers/](https://propfirmdiscount.com/prop-firm/the5ers/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current The5ers deal: New Year Offer: $2.5K High Stakes Account for $12
 
@@ -20,7 +21,7 @@ As of 2026-11, the verified The5ers discount code is NKY03MTJGM — 5% OFF, work
 - Event: New Year's Eve
 - Scope: $2.5K High Stakes Account
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/
+- Deal page: [https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/)
 
 ## The5ers discount code FAQ
 
@@ -55,9 +56,9 @@ Total deals tracked: **2**
 
 This repository mirrors every deal **The5ers** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/the5ers/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/the5ers/](https://propfirmdiscount.com/prop-firm/the5ers/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/the5ers-deals.json`
 
