@@ -1,4 +1,4 @@
-# The5ers Discount Code & Deal History
+# The5ers Discount Code, Deals History & Dataset
 
 As of November 2026, the verified The5ers discount code is NKY03MTJGM — 5% OFF, which can be applied on the checkout page anytime. The newest is "New Year Offer: $2.5K High Stakes Account for $12".
 
@@ -7,7 +7,7 @@ As of November 2026, the verified The5ers discount code is NKY03MTJGM — 5% OFF
 - Valid: Standing code — no published expiry date
 - Last deal published: 2025-12-22
 - Trustpilot: [4.7/5 (42577 reviews)](https://www.trustpilot.com/review/the5ers.com)
-- GitHub repository: [The5ers Deals Repository](https://github.com/propfirmdiscounts/the5ers-deals)
+- GitHub repository: [The5ers Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/the5ers-deals)
 - Activate: [Activate The5ers Discount Code](https://propfirmdiscount.com/go/the5ers)
 - Firm page: [The5ers Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/the5ers/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -23,7 +23,7 @@ As of November 2026, the verified The5ers discount code is NKY03MTJGM — 5% OFF
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [The5ers Deal Page](https://propfirmdiscount.com/deals/the5ers/the5ers-new-year-high-stakes-deal/)
 
-## The5ers Discount Code & Deals FAQ
+## The5ers Discount Code & Deals History FAQ
 
 **What is the The5ers discount code?**
 
@@ -39,7 +39,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## The5ers Deal History
+## The5ers Deals History
 
 Total deals tracked: **2**
 
@@ -52,7 +52,7 @@ Total deals tracked: **2**
 
 ---
 
-## About the The5ers Deals Dataset
+## About the The5ers Discount Code & Deals History Dataset
 
 This repository mirrors every deal **The5ers** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -60,7 +60,7 @@ This repository mirrors every deal **The5ers** has published on PropFirmDiscount
 - Prop firm profile: [The5ers Profile](https://propfirmdiscount.com/prop-firm/the5ers/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## The5ers Deal Dataset: Field Definitions
+## The5ers Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

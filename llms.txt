@@ -1,4 +1,4 @@
-# The5ers Discount Codes
+# The5ers Discount Code & Deals History
 
 This dataset tracks historical deal observations for The5ers from PropFirmDiscount.com.
 
